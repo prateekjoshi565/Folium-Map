@@ -1,2 +1,2 @@
-# Folium-Map
-Visualize GPX data on an interactive map.
+# Folium Map
+Visualize GPX data on an interactive map
